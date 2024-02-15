@@ -26,7 +26,7 @@ export default function Home() {
         <Card>
           <div className="p-4  flex flex-col gap-2">
             {/* foto */}
-            {/* nama */}
+           
             <p className="text-3xl font-semibold">About</p>
             <p className="text-md font-light text-gray-900">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit.
