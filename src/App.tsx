@@ -8,9 +8,9 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/nieru-portfolio" element={<Layout />}>
-          <Route path="/" element={<Home />} index />
-          <Route path="/portfolio" element={<Portfolio/>} />
+        <Route path="/nieru-portfolio/" element={<Layout />}>
+          <Route path="/nieru-portfolio/" element={<Home />} index />
+          <Route path="/nieru-portfolio/portfolio" element={<Portfolio/>} />
         </Route>
       </Routes>
     </Router>
