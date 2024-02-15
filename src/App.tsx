@@ -9,7 +9,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/nieru-portfolio" element={<Layout />}>
-          <Route path="/nieru-portfolio" element={<Home />} index />
+          <Route path="/" element={<Home />} index />
           <Route path="/portfolio" element={<Portfolio/>} />
         </Route>
       </Routes>
