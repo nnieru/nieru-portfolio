@@ -1,7 +1,6 @@
 {
   "name": "nieru-portfolio",
   "private": true,
-  "homepage": "https://nnieru.github.io/nieru-portfolio/",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
